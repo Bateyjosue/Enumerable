@@ -1,10 +1,10 @@
 # Enumerable
-In this project A learn how to create module and use them in my Class
 
-> In this project we learn how to create module and use them in my Class.For this we create a class  `MyList` and a module `MyEnumerable`. our module `MyEnumerable` will implement a subset of the functionality of *Enumerable*. Build with Ruby
+
+> In this project we learn how to create module and use them in our Class. For this we create a class  `MyList` and a module `MyEnumerable`. our module `MyEnumerable` will implement a subset of the functionality of *Enumerable*. Build with Ruby
 
 # ScreenShot
-![]()
+![Coming soon]()
 
 ## Getting Started
 
