@@ -1,11 +1,8 @@
 module MyEnumerable
-  
   def all?
     element = true
     each do |el|
-      unless yield el
-        element = false
-      end
+      element = false unless yield el
     end
     element
   end
@@ -13,12 +10,8 @@ module MyEnumerable
   def any?
     element = false
     each do |el|
-      if yield el
-        element = true
-      end
+      element = true if yield el
     end
     element
   end
-
-  
 end
