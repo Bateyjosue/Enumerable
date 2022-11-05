@@ -14,13 +14,11 @@ module MyEnumerable
     end
     element
   end
-  
+
   def filter
     iter = []
     each do |el|
-      if yield el
-        iter.push(el)
-      end
+      iter.push(el) if yield el
     end
     puts iter
   end
