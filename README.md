@@ -1,7 +1,6 @@
 # Enumerable
 
-
-> In this project we learn how to create module and use them in our Class. For this we create a class  `MyList` and a module `MyEnumerable`. our module `MyEnumerable` will implement a subset of the functionality of *Enumerable*. Build with Ruby
+> In this project module creation in the Class has been practiced. Fist we created a class called `MyList` and a module `MyEnumerable`. Our module `MyEnumerable` will implement a subset of the functionality of *Enumerable*. Build with Ruby
 
 # ScreenShot
 ![Coming soon]()
@@ -36,6 +35,7 @@ This repository includes Ruby Scripts
 
 - GitHub: [@githubhandle](https://github.com/mirwaisfarahi)
 - Twitter: [@twitterhandle](https://twitter.com/farahi92)
+
 
 ## 🤝 Contributing
 
